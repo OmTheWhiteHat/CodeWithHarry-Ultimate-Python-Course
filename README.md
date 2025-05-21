@@ -107,7 +107,7 @@ Each chapter contains problem sets to test your understanding and to practice co
 ## Additional Resources
 
 - **[Download the Handbook](https://github.com/OmTheWhiteHat/CodeWithHarry-Ultimate-Python-Course/blob/main/The%20Ultimate%20Python%20Handbook.pdf)**
-- **[Download the Handwritten Notes](https://github.com/OmTheWhiteHat/CodeWithHarry-Ultimate-Python-Course/blob/main/)**
+- **[Download the Handwritten Notes](https://github.com/OmTheWhiteHat/CodeWithHarry-Ultimate-Python-Course/blob/main/HandWritten_Python_Complete_Notes.pdf)**
 - **[Download the Ultimate Python Cheatsheet](https://www.codewithharry.com/blogpost/python-cheatsheet/)**
 
 ## How to Use This Repository
